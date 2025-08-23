@@ -23,14 +23,10 @@ This project generates a colorful yearly calendar directly in your terminal usin
 
 * pip install rich
 
-📂 Example Output
+📸 Screenshot Preview
 
-┏━━━━━━━━━━━━━━━━━━━━━━ January ━━━━━━━━━━━━━━━━━━━━━━┓
-┃ Mon │ Tue │ Wed │ Thu │ Fri │ Sat │ Sun            ┃
-┃     │     │  1  │  2  │  3  │  4  │  5             ┃
-┃  6  │  7  │  8  │  9  │ 10  │ 11  │ 12             ┃
-┃ ... │ ... │ ... │ ... │ ... │ ... │ ...            ┃
-┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
+<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/95e7a7f6-174f-41cb-a82b-b2d3e257b538" />
+
 
 ⚙️ Customization
 
