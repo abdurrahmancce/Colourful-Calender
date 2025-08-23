@@ -22,7 +22,7 @@ This project generates a colorful yearly calendar directly in your terminal usin
 
 * pip install rich
 
-📸 Screenshot Preview
+📸 Screenshot Preview -
 
 <img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/95e7a7f6-174f-41cb-a82b-b2d3e257b538" />
 
@@ -34,8 +34,7 @@ This project generates a colorful yearly calendar directly in your terminal usin
 
 * colorful_calendar(2025)
 
-
-Replace 2025 with any year you want.
+* Replace 2025 with any year you want.
 
 📝 Notes -
 
