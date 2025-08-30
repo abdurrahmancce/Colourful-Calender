@@ -24,5 +24,5 @@ def colorful_calendar(year):
         console.print(table)
         console.print("\n")
 
-# Example: Show calendar for 2025
 colorful_calendar(2025)
+
